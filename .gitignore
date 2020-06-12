@@ -1,0 +1,9 @@
+.DS_Store
+/.idea
+/vendor
+/composer.phar
+/composer.lock
+/sandbox
+/auth.json
+/codeception.yml
+/_workdir
